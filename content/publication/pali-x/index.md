@@ -1,5 +1,5 @@
 ---
-title: PaLI-X: On Scaling up a Multilingual Vision and Language Model
+title: PaLI-X:On Scaling up a Multilingual Vision and Language Model
 publication_types: ["paper-conference"]
 
 authors:
