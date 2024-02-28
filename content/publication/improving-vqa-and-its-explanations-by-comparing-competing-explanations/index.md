@@ -2,7 +2,7 @@
 title: Improving VQA and its Explanations by Comparing Competing Explanations
 publication_types: ['paper-conference']
 authors:
-  - Jialin Wu
+  - admin
   - Liyan Chen
   - Raymond J. Mooney
 publication_short: AAAI 2021 Explainable Agency in Artificial Intelligence Workshop
