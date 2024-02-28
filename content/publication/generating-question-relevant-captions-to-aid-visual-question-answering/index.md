@@ -2,7 +2,7 @@
 title: Generating Question Relevant Captions to Aid Visual Question Answering
 publication_types: ['paper-conference']
 authors:
-  - Jialin Wu
+  - admin
   - Zeyuan Hu
   - Raymond J. Mooney
 publication_short: ACL 2019 (Oral)
