@@ -2,7 +2,7 @@
 title: Multi-Modal Answer Validation for Knowledge-Based VQA
 publication_types: ['paper-conference']
 authors:
-  - Jialin Wu
+  - admin
   - Jiasen Lu
   - Ashish Sabharwal
   - Roozbeh Mottaghi
