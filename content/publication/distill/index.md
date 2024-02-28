@@ -6,7 +6,7 @@ authors:
   - Yue Zhao
   - Long Zhao
   - Xingyi Zhou
-  - Jialin Wu
+  - admin
   - Chun-Te Chu
   - Hui Miao
   - Florian Schroff
