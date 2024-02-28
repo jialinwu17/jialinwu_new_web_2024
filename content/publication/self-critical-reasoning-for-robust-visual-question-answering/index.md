@@ -1,6 +1,6 @@
 ---
 title: Self-Critical Reasoning for Robust Visual Question Answering
-publication_types: ["article"]
+publication_types: ["conference-paper"]
 
 authors:
   - Jialin Wu
