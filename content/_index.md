@@ -43,6 +43,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: collection
+    id: collection
     content:
       title: Recent Publications
       text: |-
@@ -57,6 +58,7 @@ sections:
       columns: '2'
       view: citation
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
