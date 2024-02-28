@@ -5,7 +5,7 @@ publication_types: ['paper-conference']
 authors:
   - Jialin Wu
   - Raymond J. Mooney
-publication_short: NeurIPS 2019
+publication_short: NeurIPS 2019 (Spotlight)
 abstract: Visual Question Answering (VQA) deep-learning systems tend to capture
   superficial statistical correlations in the training data because of strong
   language priors and fail to generalize to test data with a significantly
