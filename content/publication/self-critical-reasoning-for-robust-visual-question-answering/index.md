@@ -3,7 +3,7 @@ title: Self-Critical Reasoning for Robust Visual Question Answering
 publication_types: ['paper-conference']
 
 authors:
-  - Jialin Wu
+  - admin
   - Raymond J. Mooney
 publication_short: NeurIPS 2019 (Spotlight)
 abstract: Visual Question Answering (VQA) deep-learning systems tend to capture
