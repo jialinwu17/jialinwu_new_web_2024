@@ -5,7 +5,7 @@ publication_types: ['paper-conference']
 authors:
   - Jungjun Kim
   - Hanbin Ko
-  - Jialin Wu
+  - admin
 publication_short: COLING 2020
 abstract: Daily scenes are complex in the real world due to occlusion, undesired
   lighting conditions, etc. Although humans handle those complicated
