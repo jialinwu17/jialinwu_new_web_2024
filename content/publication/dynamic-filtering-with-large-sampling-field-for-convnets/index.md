@@ -2,7 +2,7 @@
 title: Dynamic Filtering with Large Sampling Field for Convnets
 publication_types: ['paper-conference']
 authors:
-  - Jialin Wu
+  - admin
   - Dai Li
   - Yu Yang
   - Chandrajit Bajaj
