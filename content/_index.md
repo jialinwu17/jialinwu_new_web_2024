@@ -45,11 +45,8 @@ sections:
   - block: collection
     id: collection
     content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      title: Selected Publications
+      text: Please see my google scholar for full publications and preprints.
       filters:
         folders:
           - publication
