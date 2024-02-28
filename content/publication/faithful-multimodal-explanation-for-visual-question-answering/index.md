@@ -2,7 +2,8 @@
 title: Faithful Multimodal Explanation for Visual Question Answering
 publication_types: ['paper-workshop']
 authors:
-  - Jialin Wu and Raymond J. Mooney
+  - admin
+  - Raymond J. Mooney
 publication_short: ACL 2019 BlackboxNLP Workshop
 abstract: AI systems' ability to explain their reasoning is critical to their
   utility and trustworthiness. Deep neural networks have enabled significant
@@ -17,5 +18,5 @@ abstract: AI systems' ability to explain their reasoning is critical to their
   metrics and human evaluation metrics.
 draft: false
 featured: false
-date: 2019-07-11T18:16:37.742Z
+date: 2019-07-11
 ---
