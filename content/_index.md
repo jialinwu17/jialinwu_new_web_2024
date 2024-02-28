@@ -42,6 +42,20 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: collection
+    content:
+      title: Recent Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   - block: experience
     content:
       title: Experience
@@ -66,20 +80,6 @@ sections:
           location: New York City
           date_start: '2019-05-01'
           date_end: '2019-08-01'
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
   - block: contact
     id: contact
     content:
@@ -92,13 +92,6 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       columns: '2'
 ---
