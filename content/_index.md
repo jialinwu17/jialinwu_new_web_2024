@@ -41,7 +41,6 @@ sections:
           company_url: 'https://research.google/'
           location: Los Angelos
           date_start: '2022-08-29'
-          date_end: Now
         - title: Research Intern
           company: Allen Institute for AI
           company_url: 'https://allenai.org'
