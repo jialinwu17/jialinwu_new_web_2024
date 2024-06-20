@@ -37,8 +37,8 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Scientist
-          company: Google Research
-          company_url: 'https://research.google/'
+          company: Google Deepmind
+          company_url: 'https://deepmind.google/'
           location: Los Angelos
           date_start: '2022-08-29'
         - title: Research Intern
