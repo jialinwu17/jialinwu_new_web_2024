@@ -14,8 +14,8 @@ role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Google Research
-    url: https://research.google/
+  - name: Google Deepmind
+    url: https://deepmind.google/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My most recent research interests is building large multimodal models that (1) are explainable generalists and (2) performan well on geographically (culturally) diversed tasks.
