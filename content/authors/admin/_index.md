@@ -71,7 +71,7 @@ social:
 highlight_name: true
 ---
 
-I am a research scientist at Google Research LA. Prior to that, I received my Ph. D. from <a href = "https://www.cs.utexas.edu/">UTCS</a> advised by <a href = "https://www.cs.utexas.edu/~mooney/">Raymond J. Mooney.</a>
+I am a research scientist at Google Deepmind. Prior to that, I received my Ph. D. from <a href = "https://www.cs.utexas.edu/">UTCS</a> advised by <a href = "https://www.cs.utexas.edu/~mooney/">Raymond J. Mooney.</a>
  I received my BEng. degree from <a href = "http://www.au.tsinghua.edu.cn/"> the Department of Automation</a> supervised by <a href = "http://media.au.tsinghua.edu.cn/xiangyangji.html"> Prof. Xiangyang Ji</a> at <a href = "http://www.tsinghua.edu.cn/publish/then/index.html"> Tsinghua University</a> in 2017. 
 
 My most recent research interests is building large multimodal models that (1) are explainable generalists and (2) performan well on geographically (culturally) diversed tasks. I am also interested in few-shot learning, parameter efficient learning and continual learning. 
