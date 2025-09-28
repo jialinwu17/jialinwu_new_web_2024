@@ -1,4 +1,4 @@
-
+---
 title: Gemini 2.5 Flash Image
 publication_types: ["paper-conference"]
 
