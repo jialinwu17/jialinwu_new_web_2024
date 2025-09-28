@@ -14,7 +14,7 @@ sections:
   - block: collection
     id: collection
     content:
-      title: Selected Publications
+      title: Selected Publications and Projects
       text: Please see my google scholar for full publications and preprints.
       filters:
         folders:
