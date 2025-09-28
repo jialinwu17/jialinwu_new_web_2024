@@ -24,7 +24,7 @@ bio: I am interested in enhancing the capabilities of image generation models on
 # Interests to show in About widget
 interests:
   - Info-seeking Image Generation 
-  - Scaling Laws of Image Generation
+  - Scaling Laws for Image Generation
 
 # Education to show in About widget
 education:
@@ -71,6 +71,6 @@ highlight_name: true
 I am a research scientist at Google Deepmind. Prior to that, I received my Ph. D. from <a href = "https://www.cs.utexas.edu/">UTCS</a> advised by <a href = "https://www.cs.utexas.edu/~mooney/">Raymond J. Mooney.</a>
  I received my BEng. degree from <a href = "http://www.au.tsinghua.edu.cn/"> the Department of Automation</a> supervised by <a href = "http://media.au.tsinghua.edu.cn/xiangyangji.html"> Prof. Xiangyang Ji</a> at <a href = "http://www.tsinghua.edu.cn/publish/then/index.html"> Tsinghua University</a> in 2017. 
 
-My most recent research interests is building large multimodal models that (1) are explainable generalists and (2) performan well on geographically (culturally) diversed tasks. I am also interested in few-shot learning, parameter efficient learning and continual learning. 
+My most recent research interests are in enhancing the capabilities of image generation models on info-seeking (world knowledge) queries. I work on (1) utilizing search signals during the pre/post-training phases as well as during inference for image generation, and (2) enhancing the factual accuracy of images produced in response to info-seeking queries.
 
 {style="text-align: justify;"}
