@@ -58,11 +58,11 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/jialin-wu-a50135175/
   # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
+  # To use: copy your resume to `static/uploads/JialinWu_CV_2025.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/JialinWu_CV_2025.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
