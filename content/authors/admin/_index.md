@@ -18,13 +18,16 @@ organizations:
     url: https://deepmind.google/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My most recent research interests is building large multimodal models that (1) are explainable generalists and (2) performan well on geographically (culturally) diversed tasks.
+bio: I am interested in enhancing the capabilities of image generation models on info-seeking (world knowledge) queries.
+Some research questions I am exploring include (1) utilizing search signals during the pre/post-training
+phases as well as during inference for image generation, and (2) enhancing the factual accuracy of images
+produced in response to info-seeking queries.
+
 
 # Interests to show in About widget
 interests:
-  - Fewshot (In-Context) Learning
-  - Language and Vision
-  - Explainable AI
+  - Info-seeking Image Generation 
+  - Scaling Laws of Image Generation
 
 # Education to show in About widget
 education:
@@ -54,9 +57,6 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=M7EpKqsAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/jialinwu17
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/jialin-wu-a50135175/
