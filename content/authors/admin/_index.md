@@ -18,10 +18,7 @@ organizations:
     url: https://deepmind.google/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in enhancing the capabilities of image generation models on info-seeking (world knowledge) queries.
-Some research questions I am exploring include (1) utilizing search signals during the pre/post-training
-phases as well as during inference for image generation, and (2) enhancing the factual accuracy of images
-produced in response to info-seeking queries.
+bio: I am interested in enhancing the capabilities of image generation models on info-seeking (world knowledge) queries. Some research questions I am exploring include (1) utilizing search signals during the pre/post-training phases as well as during inference for image generation, and (2) enhancing the factual accuracy of images produced in response to info-seeking queries.
 
 
 # Interests to show in About widget
